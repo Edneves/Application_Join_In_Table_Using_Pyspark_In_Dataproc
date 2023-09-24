@@ -5,3 +5,8 @@ Projeto destinado a aplicação de um join em duas tabelas, para que seja aplica
 - Submetido o script à execução via CLI.
 - Após a execução de todo o processo, foi gerado um arquivo "parquet" com todos os dados resultantes do join.
 
+Tools used:
+1. Python
+2. Spark
+2. Cloud Storage
+3. Dataproc
